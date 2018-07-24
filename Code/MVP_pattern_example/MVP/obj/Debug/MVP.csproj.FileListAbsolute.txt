@@ -1,0 +1,9 @@
+C:\Users\GL553V\Documents\C# Proyectos\NightLifeX\Code\MVP_pattern_example\MVP\bin\Debug\MVP.dll
+C:\Users\GL553V\Documents\C# Proyectos\NightLifeX\Code\MVP_pattern_example\MVP\bin\Debug\MVP.pdb
+C:\Users\GL553V\Documents\C# Proyectos\NightLifeX\Code\MVP_pattern_example\MVP\bin\Debug\Common.dll
+C:\Users\GL553V\Documents\C# Proyectos\NightLifeX\Code\MVP_pattern_example\MVP\bin\Debug\Common.pdb
+C:\Users\GL553V\Documents\C# Proyectos\NightLifeX\Code\MVP_pattern_example\MVP\obj\Debug\MVP.csprojResolveAssemblyReference.cache
+C:\Users\GL553V\Documents\C# Proyectos\NightLifeX\Code\MVP_pattern_example\MVP\obj\Debug\MVP.UserView.resources
+C:\Users\GL553V\Documents\C# Proyectos\NightLifeX\Code\MVP_pattern_example\MVP\obj\Debug\MVP.csproj.GenerateResource.Cache
+C:\Users\GL553V\Documents\C# Proyectos\NightLifeX\Code\MVP_pattern_example\MVP\obj\Debug\MVP.dll
+C:\Users\GL553V\Documents\C# Proyectos\NightLifeX\Code\MVP_pattern_example\MVP\obj\Debug\MVP.pdb

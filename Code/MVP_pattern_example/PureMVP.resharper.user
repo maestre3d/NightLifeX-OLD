@@ -1,0 +1,44 @@
+<Configuration>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Tests.Tests.StubView">
+      <Item value="UserName" priority="0" />
+      <Item value="Email" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Library.IUserModel">
+      <Item value="UserName" priority="1" />
+      <Item value="Email" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <EditorManager>
+    <RecentFiles>
+      <File id="C1125E5D-D186-4339-A728-86478AF17834/f:IUserView.cs" caret="34" visual-x="0" visual-y="0" />
+      <File id="C1125E5D-D186-4339-A728-86478AF17834/f:IUserModel.cs" caret="136" visual-x="0" visual-y="0" />
+      <File id="94FDDE78-64AF-4147-80A5-65A0D3FE8690/f:UserView.cs" caret="3903" visual-x="0" visual-y="544" />
+      <File id="94FDDE78-64AF-4147-80A5-65A0D3FE8690/f:UserModel.cs" caret="482" visual-x="0" visual-y="0" />
+      <File id="795FBE5A-33C8-4786-9532-9E4DD7B04FA6/f:Tests.cs" caret="448" visual-x="0" visual-y="204" />
+      <File id="94FDDE78-64AF-4147-80A5-65A0D3FE8690/f:UserPresenter.cs" caret="472" visual-x="0" visual-y="374" />
+    </RecentFiles>
+  </EditorManager>
+  <FileStructureView>
+    <AutoScrollToSource>False</AutoScrollToSource>
+    <TrackCaretLocation>False</TrackCaretLocation>
+  </FileStructureView>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <ReFormatCode>
+    <OptimizeUsings>False</OptimizeUsings>
+    <RemoveRedundantThis>False</RemoveRedundantThis>
+    <ShortenReferences>False</ShortenReferences>
+    <DecorateModifiers>False</DecorateModifiers>
+  </ReFormatCode>
+  <SharedSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </SharedSolutionDisabledTemplatesManager>
+  <UserSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </UserSolutionDisabledTemplatesManager>
+</Configuration>
