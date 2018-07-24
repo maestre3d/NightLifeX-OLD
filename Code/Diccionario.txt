@@ -1,0 +1,6 @@
+Etiquetas GUI:
+// ELEMENTOS GUI
+img 	- 	PictureBox
+lbl 	- 	Label
+pnl 	- 	Panel
+tm 	-	Timer

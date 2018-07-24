@@ -1,0 +1,5 @@
+C:\Users\GL553V\Documents\C# Proyectos\NightLifeX\Code\MVP_pattern_example\Common\bin\Debug\Common.dll
+C:\Users\GL553V\Documents\C# Proyectos\NightLifeX\Code\MVP_pattern_example\Common\bin\Debug\Common.pdb
+C:\Users\GL553V\Documents\C# Proyectos\NightLifeX\Code\MVP_pattern_example\Common\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\GL553V\Documents\C# Proyectos\NightLifeX\Code\MVP_pattern_example\Common\obj\Debug\Common.dll
+C:\Users\GL553V\Documents\C# Proyectos\NightLifeX\Code\MVP_pattern_example\Common\obj\Debug\Common.pdb
